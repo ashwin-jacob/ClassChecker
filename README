@@ -1,0 +1,7 @@
+A simple python script to email a person when a class on the UIUC course information becomes available. 
+
+In refresh.py make sure you change the follwing items:
+	refresh.py:44 fromaddr = 'XXXXXXX'  ---> Make sure you change the XXXX to your e-mail (ie example@gmail.com)
+	refresh.py:45 toaddr = 'XXXXXX'     ---> Make sure you change the XXXX to your e-mail (ie example@gmail.com)
+	refresh.py:48 username = 'XXXX'     ---> Make sure you change the XXXX to the username of the from addr
+	refresh.py:49 password = 'XXXX'     ---> Make sure you change the XXXX to the password of the from addr
